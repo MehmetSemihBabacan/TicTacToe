@@ -1,2 +1,12 @@
-# unsmart_XoX
-An unsmart XoX game that can be played by two players
+XoX Game
+==============
+
+Usage
+------------
+
+Run Command:
+
+	python Connect4Client.py
+
+	Just start with valid coordinates with respect to the row and columns of 3x3.
+
