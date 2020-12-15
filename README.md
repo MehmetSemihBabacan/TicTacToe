@@ -6,7 +6,6 @@ Usage
 
 Run Command:
 
-	python Connect4Client.py
+	python xox.py
 
 	Just start with valid coordinates with respect to the row and columns of 3x3.
-
