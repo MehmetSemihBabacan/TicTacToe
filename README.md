@@ -8,4 +8,4 @@ Run Command:
 
 	python xox.py
 
-	Just start with valid coordinates with respect to the row and columns of 3x3.
+	Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or Xs and Os. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly!
